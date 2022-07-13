@@ -92,9 +92,11 @@ function Main() {
 
 	useEffect(() => {
 		if (timer === 0 && !isRelax) {
+			clearInterval(timerInterval.current);
 			dispatch('RELAX_TIMER');
 			return;
 		} else if (timer === 0 && isRelax) {
+			clearInterval(timerInterval.current);
 			dispatch('WORK_TIMER');
 			return;
 		}
