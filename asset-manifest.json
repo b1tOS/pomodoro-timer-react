@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pomodoro-timer-react/static/css/main.7dded5c9.css",
-    "main.js": "/pomodoro-timer-react/static/js/main.152a9b1c.js",
+    "main.js": "/pomodoro-timer-react/static/js/main.5a83e380.js",
     "static/media/mixkit-clock-countdown-bleeps-916.wav": "/pomodoro-timer-react/static/media/mixkit-clock-countdown-bleeps-916.4d06140b6242f1b59d01.wav",
     "index.html": "/pomodoro-timer-react/index.html",
     "main.7dded5c9.css.map": "/pomodoro-timer-react/static/css/main.7dded5c9.css.map",
-    "main.152a9b1c.js.map": "/pomodoro-timer-react/static/js/main.152a9b1c.js.map"
+    "main.5a83e380.js.map": "/pomodoro-timer-react/static/js/main.5a83e380.js.map"
   },
   "entrypoints": [
     "static/css/main.7dded5c9.css",
-    "static/js/main.152a9b1c.js"
+    "static/js/main.5a83e380.js"
   ]
 }
